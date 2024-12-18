@@ -28,7 +28,7 @@ I am currently pursuing a Master of Engineering in Mechanical and Industrial Eng
   - Training/Validation RMSE vs. Time  
   - Total Training Time vs. Batch Size  
 
-- **Link**: [GitHub Repository](#)  
+- **Link**: [GitHub Repository](https://github.com/ziren1/Ziren_Wang_Portfolio/tree/main/Grid_Stability_Prediction)  
 
 ### 2. 
 - **Goal**:  
