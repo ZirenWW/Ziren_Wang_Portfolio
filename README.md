@@ -1,4 +1,4 @@
-# Ziren_Wang_Portfolio
+# Ziren_Wang's_Portfolio
 
 Welcome to my portfolio! Here you will find some of my projects and skills showcased as part of my work in Machine Learning, Data Analysis, and Finance.
 
