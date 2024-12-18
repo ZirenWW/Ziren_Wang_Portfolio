@@ -30,6 +30,7 @@ I am currently pursuing a Master of Engineering in Mechanical and Industrial Eng
 
 - **Link**: [GitHub Repository](https://github.com/ziren1/Ziren_Wang_Portfolio/blob/main/Grid_Stability_Prediction/F24_APS1070_Project_4%20(1).ipynb)  
 
+
 ### 2. Salary Analysis and Hypothesis Testing
 - **Goal**:  
   Analyzed salary distributions based on education level, years of coding experience, and work mode (remote vs. in-person). Performed hypothesis testing (two-sample t-test and ANOVA) and applied bootstrap resampling to investigate statistical differences between groups.
