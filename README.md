@@ -30,11 +30,35 @@ I am currently pursuing a Master of Engineering in Mechanical and Industrial Eng
 
 - **Link**: [GitHub Repository](https://github.com/ziren1/Ziren_Wang_Portfolio/blob/main/Grid_Stability_Prediction/F24_APS1070_Project_4%20(1).ipynb)  
 
-### 2. 
+### 2. Salary Analysis and Hypothesis Testing
 - **Goal**:  
-- **Technologies**: 
-- **Results**: 
-- **Link**: 
+  Analyzed salary distributions based on education level, years of coding experience, and work mode (remote vs. in-person). Performed hypothesis testing (two-sample t-test and ANOVA) and applied bootstrap resampling to investigate statistical differences between groups.
+
+- **Technologies**:  
+  Python, Pandas, NumPy, Matplotlib, Scipy  
+
+- **Process**:  
+  - **Data Cleaning**:  
+    - Dropped missing values to ensure no incomplete data affected the analysis.  
+    - Removed outliers using the **IQR (Interquartile Range)** method for robust trend analysis.  
+  - **Statistical Analysis**:  
+    - Performed **two-sample t-tests** (manual and automated) to compare salary means between remote and in-person workers.  
+    - Conducted **ANOVA** to compare salaries among education levels (Bachelor's, Master's, Professional degrees).  
+    - Utilized **bootstrap resampling** (10,000 samples) to verify results and assess statistical robustness.  
+  - **Data Visualization**:  
+    - Created bar plots to visualize salary trends by education level, years of coding, and work mode.  
+    - Plotted bootstrapped distributions and mean differences for deeper insights.  
+
+- **Results**:  
+  - **Work Mode**: Remote workers tend to earn more than in-person workers, though the difference was not statistically significant (p > 0.05).  
+  - **Education Levels**: Professional degree holders had the highest salaries, followed by Bachelor's and Master's degree holders. The ANOVA test indicated significant differences in salaries (p < 0.05).  
+
+- **Visualizations**:  
+  - Bar plots for education levels, years of coding vs. average salary.  
+  - Bootstrapped distributions and mean difference plots.  
+
+- **Link**: [GitHub Repository](#)  
+
 
 ## Skills
 - **Programming Languages**: Python, MATLAB
