@@ -58,7 +58,7 @@ I am currently pursuing a Master of Engineering in Mechanical and Industrial Eng
   - Bar plots for education levels, years of coding vs. average salary.  
   - Bootstrapped distributions and mean difference plots.  
 
-- **Link**: [GitHub Repository](#)  
+- **Link**: [GitHub Repository](https://github.com/ziren1/Ziren_Wang_Portfolio/blob/main/Grid_Stability_Prediction/wang_1007004386_assignment1.ipynb)  
 
 
 ## Skills
